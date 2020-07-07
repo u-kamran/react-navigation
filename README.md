@@ -1,6 +1,6 @@
 ## React Navigation 5
 
-Routing and navigation for your React Native apps.
+Routing and navigation for your React Native applications.
 
 Documentation can be found at [reactnavigation.org](https://reactnavigation.org/).
 
